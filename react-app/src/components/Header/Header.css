@@ -5,12 +5,12 @@
 
 .h-container{
     justify-content: space-between;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
     color: var(--secondary);
 }
 .h-menu{
-    gap: 2rem;
+    gap: 1.8rem;
 }
 
 .h-menu>*:hover{
