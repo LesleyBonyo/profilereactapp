@@ -5,11 +5,13 @@
 //import MyButton from "./MyButton";
 import Header from "./components/Header/Header";
 import ListGroup from "./components/ListGroup";
+import Gallery from "./components/Gallery/Gallery";
 
 function App() {
   return (
     <div>
       <Header></Header>
+      <Gallery></Gallery>
       <ListGroup></ListGroup>
     </div>
   );
