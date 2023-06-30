@@ -8,9 +8,9 @@ function Header() {
         <img src="./letter.png" width={20} alt="logo" />
 
         <div className="flexCenter h-menu">
-          <a href="#">About</a>
-          <a href="#">Projects</a>
-          <a href="#">Github</a>
+          <a href="./index.html">Home</a>
+          <a href="">Projects</a>
+          <a href="./About.html">About</a>
           <a href="#">Feedback</a>
           <button className="button">
             <a href="#">Contact</a>

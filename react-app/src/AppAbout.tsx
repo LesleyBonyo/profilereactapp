@@ -4,18 +4,15 @@
 //import Message from "./Message";
 //import MyButton from "./MyButton";
 import Header from "./components/Header/Header";
-//import ListGroup from "./components/ListGroup";
-//import Gallery from "./components/Gallery/Gallery";
-import Hero from "./components/Hero/hero";
+import ListGroup from "./components/ListGroup";
+import Gallery from "./components/Gallery/Gallery";
 
-function App() {
+function AppAbout() {
   return (
     <div>
       <Header></Header>
-
-      <Hero></Hero>
     </div>
   );
 }
 
-export default App;
+export default AppAbout;
